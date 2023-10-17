@@ -1,1 +1,7 @@
-# croc_volume_attachment
+# Croc volume attachment demo
+
+```
+terraform init
+terraform plan
+terraform apply
+```
