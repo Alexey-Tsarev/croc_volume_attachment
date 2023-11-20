@@ -2,7 +2,7 @@ terraform {
   required_providers {
     aws = {
       source  = "hc-registry.website.cloud.croc.ru/c2devel/croccloud"
-      version = "4.14.0-CROC8"
+      version = "4.14.0-CROC9"
     }
   }
 }
